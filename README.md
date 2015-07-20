@@ -10,4 +10,8 @@ Introducir los conceptos de:
 - Controlador
 - Directiva
 
-Profundizar el uso de herramientas de desarrollo. Enseñar a debuggear con las Chrome Dev Tools.
+Profundizar el uso de herramientas de desarrollo.
+ 
+Enseñar a debuggear con las Chrome Dev Tools.
+
+Aprender a forkear un repo y contribuir.
